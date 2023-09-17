@@ -1,0 +1,38 @@
+Bank: MiniStatement
+Mar
+
+
+Account Holder: [Your Name]
+Account Number: [Your Account Number]
+Date: [Current Date]
+
+Transaction History:
+
+Date: [Transaction Date]
+Description: [Transaction Description]
+Debit/Credit: [Amount]
+
+Date: [Transaction Date]
+Description: [Transaction Description]
+Debit/Credit: [Amount]
+
+Date: [Transaction Date]
+Description: [Transaction Description]
+Debit/Credit: [Amount]
+
+Date: [Transaction Date]
+Description: [Transaction Description]
+Debit/Credit: [Amount]
+
+Date: [Transaction Date]
+Description: [Transaction Description]
+Debit/Credit: [Amount]
+
+Account Summary:
+
+Opening Balance: [Opening Balance]
+Total Credits: [Total Credits]
+Total Debits: [Total Debits]
+Closing Balance: [Closing Balance]
+
+Note: This mini statement provides a brief overview of your recent transactions. For a detailed account statement or any discrepancies, kindly contact our customer service.
